@@ -4,7 +4,7 @@ public class homeScreen {
 
 	
 	public void test() {
-		System.out.println("changes");
+		System.out.println("changedone");
 	}
 	
 }
